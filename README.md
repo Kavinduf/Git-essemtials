@@ -1,1 +1,1 @@
-# Git-assemtials
+# Git-essemtials
